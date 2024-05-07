@@ -1,0 +1,14 @@
+[
+  {
+    "correoElectronico": "usuario1@gmail.com",
+    "contraseña": "contraseña1"
+  },
+  {
+    "correoElectronico": "usuario2@gmail.com",
+    "contraseña": "contraseña2"
+  },
+  {
+    "correoElectronico": "usuario3@gmail.com",
+    "contraseña": "contraseña3"
+  }
+]
